@@ -605,9 +605,14 @@ ul.primary-menu li a:hover{
     
 }
 .footer-social li a{
-   text-decoration: none;
+    text-decoration: none;
     color: #fff;
     font-size: 20px;
+    transition: .4s;
+}
+.footer-social li a:hover{
+    color: #0d6efd;
+    
 }
 .footer-social li a i{}
 .footer-widget h4{
